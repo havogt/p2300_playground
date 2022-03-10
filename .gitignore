@@ -1,0 +1,6 @@
+build/**
+
+cmakels.log
+.cmakels
+
+.vscode
